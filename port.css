@@ -1,0 +1,54 @@
+.pro-pix{
+    width: 500px;
+    height: 550px;
+}
+
+.contact-form{
+    text-align: center;
+    margin-top: 100px;
+    display: block;
+}
+
+form{
+    display: inline-block;
+    text-align: left;
+    margin-left: auto;
+    margin-right: 250px;
+}
+
+input[type=text], input[type=email], textarea {
+    width: 300px;
+    display: block;
+    padding: 8px 14px;
+    margin: 8px 0;
+}   
+
+input[type=button]{
+    display: block;
+    font-weight: bold;
+    font-style: 20px;
+    color: white;
+    width: 100px;
+    height: 50px;
+    background-color: #113520;
+    border-radius: 5px;
+    border: none;
+}   
+
+.connect img{
+    width: 50px;
+    height: 50px;
+}
+.logo img{
+    width: 150px;
+    height: 150px;
+}
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+
+  background-color: transparent;
+  text-decoration: underline;
+}
